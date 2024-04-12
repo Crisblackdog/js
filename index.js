@@ -16,3 +16,6 @@ console.log('hola mundo');
 
 let  = miPrimeraVariable = 'mi primera variable'
 console.log(miPrimeraVariable)
+
+miPrimeraVariable ='esto ha cambiado'
+console.log(miPrimeraVariable)
